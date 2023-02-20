@@ -1,0 +1,27 @@
+	// m := map[string]int{"test": 1, "test2": 2}
+	// m["test"] = 46
+	// fmt.Println(m["test"]) // 46
+	// delete(m, "test")
+	// fmt.Println(m)
+
+	// slice := []int{1, 2, 3}
+	// fmt.Println(slice)
+
+	// slice = append(slice, 4, 6, 7, 3)
+	// fmt.Println(slice[1:2])
+
+	// arr := [3]int{1, 2, 3}
+	// slice := arr[:] // create new reference!
+	// fmt.Println(slice)
+
+	// arr := [3]int{1, 2, 3}
+	// fmt.Println(arr)
+
+	// firstName := "Test"
+	// fmt.Println(&firstName, firstName)
+
+	// ptr := &firstName
+	// fmt.Println(ptr, *ptr)
+
+	// firstName = "Test 2"
+	// fmt.Println(ptr, *ptr)
